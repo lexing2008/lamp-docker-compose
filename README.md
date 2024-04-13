@@ -1,4 +1,4 @@
-# lemp-docker
+# lamp-docker (Linux + Apache + MariaDB + PHP)
 
 ### Настройка 
 #### 1. Нужно добавить в /etc/hosts
